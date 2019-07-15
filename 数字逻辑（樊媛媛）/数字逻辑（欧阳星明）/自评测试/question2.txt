@@ -1,0 +1,6 @@
+q=根据Flash+5的变量命名规则，下列变量名中哪个是不正确的?
+&answer1=for
+&answer2=the
+&answer3=you
+&answer4=she
+&correctanswer=1&eof=1

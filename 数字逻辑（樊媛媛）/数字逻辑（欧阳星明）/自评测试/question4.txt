@@ -1,0 +1,6 @@
+q=下列哪一组全都是Flash+5的预定义对象?
+&answer1=Array、Boolean、Color、getTimer、LoadMovie
+&answer2=Key、Math、MovieClip、Time、Length
+&answer3=XMLSocket、Date、Number、Int、getHours
+&answer4=Object、Selection、Sound、String、XML
+&correctanswer=4&eof=1
