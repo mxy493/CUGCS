@@ -1,0 +1,3 @@
+﻿  Primes.cpp
+D:\mxy\Documents\Visual Studio 2019\Projects\MPI_Primes\Primes\Primes\Primes.cpp(72,20): warning C4018: “<”: 有符号/无符号不匹配
+  Primes.vcxproj -> D:\mxy\Documents\Visual Studio 2019\Projects\MPI_Primes\Primes\Debug\Primes.exe
