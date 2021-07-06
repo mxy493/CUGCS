@@ -1,0 +1,6 @@
+q=ActionScript是Flash+5的____?
+&answer1=图形分析语言
+&answer2=矢量图形语言
+&answer3=动作脚本语言
+&answer4=数据转换语言
+&correctanswer=3&eof=1

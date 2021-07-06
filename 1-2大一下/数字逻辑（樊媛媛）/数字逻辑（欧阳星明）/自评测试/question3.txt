@@ -1,0 +1,6 @@
+q=如果要复制电影剪辑，应该使用下面的哪个动作?
+&answer1=setProperty
+&answer2=duplicateMovieClip
+&answer3=duplicateMovieclip
+&answer4=SetProperty
+&correctanswer=2&eof=1
